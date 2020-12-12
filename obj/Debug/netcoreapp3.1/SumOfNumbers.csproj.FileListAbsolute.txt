@@ -1,0 +1,15 @@
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.Form1.resources
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.GenerateResource.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\MattPC\Desktop\InternProgStuff\InternTests\SumOfNumbers\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.genruntimeconfig.cache
